@@ -1,0 +1,33 @@
+.heading {
+    color: royalblue;font-size: 50px; 
+}
+body{
+    background-color: aqua;
+}
+a{
+    color: black;
+}
+.table_page {
+ background-color: wheat;
+}
+.video_page {
+    background-color: wheat;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+   width: 50%;
+}
+tr {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+th {
+    border: 1px solid black;
+}
+video {
+width: 560px;
+height: 315px;
+}
